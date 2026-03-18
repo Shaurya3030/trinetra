@@ -291,7 +291,7 @@ GET    /api/blockchain/verify/:hash  →  Verify document
 
 | Name | Role |
 |---|---|
-| **Shaurya Vardhan** | Team Lead · System Design |
+| **[Member 1]** | · System Design |
 | **[Member 2]** | AI & Computer Vision |
 | **[Member 3]** | Backend & Database |
 | **[Member 4]** | Blockchain & Security |
